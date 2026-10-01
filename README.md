@@ -43,14 +43,6 @@ An Android strength-training product built around a simple idea: the app should 
 
 The product includes guided progression, workout logging, rest handling, live workout information, exercise alternatives, progress tracking, and a privacy-focused photo vault.
 
-### [Daily Routine App](https://github.com/aj4abinjacob/daily-routine-app)
-
-A React Native workout tracker that experiments with **automatic progression and RPE-aware next-set suggestions** rather than acting as a passive workout log.
-
-### [Chikku Data Combiner](https://github.com/aj4abinjacob/Chikku-Data-Combiner)
-
-The original Python/Pandas version of Chikku — a utility for combining **CSV, TSV, and Excel** datasets through a simple desktop interface.
-
 ---
 
 ## What I work with
