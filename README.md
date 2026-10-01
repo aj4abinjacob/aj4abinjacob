@@ -1,20 +1,88 @@
-<h1 align="center">Hi 👋, I'm Abin Jacob</h1>
-<h3 align="center">A passionate tech enthusiast from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Chikku Data Combiner](https://github.com/aj4abinjacob/Chikku-Data-Combiner)
+# Abin Jacob
 
-- 🤝 I’m looking for help with [TG Photos](https://github.com/aj4abinjacob/TG-Photos)
+### Data Engineer · Python / Backend Automation · Applied AI
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aj4abinjacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aj4abinjacob" height="30" width="40" /></a>
-</p>
+I build **data workflows, backend automation, and practical software products** — usually with Python at the center.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aj4abinjacob-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aj4abinjacob/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aj4abinjacob&show_icons=true&locale=en&layout=compact" alt="aj4abinjacob" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aj4abinjacob&show_icons=true&locale=en" alt="aj4abinjacob" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aj4abinjacob&" alt="aj4abinjacob" /></p>
+## About me
+
+I'm a data engineer from Kerala, India, with several years of experience building **data extraction, transformation, and automation pipelines** for e-commerce data.
+
+A lot of my work starts with a repetitive engineering problem and ends with a system that makes it disappear: automating data collection workflows, cleaning and structuring large datasets, building internal tooling, and using AI agents where they can remove genuinely repetitive work.
+
+Right now I'm focused on going deeper into **data engineering fundamentals and system design** while continuing to build products outside work.
+
+- **Data engineering:** SQL, data modelling, pipelines, orchestration, reliability, distributed processing
+- **Backend & automation:** Python, Django, Celery, APIs, async/concurrent workflows
+- **Applied AI:** agent-assisted developer tooling and workflow automation
+- **Product engineering:** desktop and Android applications built around real problems
+
+---
+
+## Selected projects
+
+### [Chikku Parser](https://github.com/aj4abinjacob/chikku_parser)
+
+A desktop application for exploring, combining, filtering, and transforming CSV data.
+
+Built with **Electron, React, TypeScript, and DuckDB**, with virtualized browsing designed to handle datasets with millions of rows.
+
+**Highlights:** large-file CSV viewing · SQL-powered transforms · flexible table combining · filtering/sorting · CSV export
+
+### LiftBack *(private · active development)*
+
+An Android strength-training product built around a simple idea: the app should guide the workout instead of making the user constantly configure it.
+
+The product includes guided progression, workout logging, rest handling, live workout information, exercise alternatives, progress tracking, and a privacy-focused photo vault.
+
+### [Daily Routine App](https://github.com/aj4abinjacob/daily-routine-app)
+
+A React Native workout tracker that experiments with **automatic progression and RPE-aware next-set suggestions** rather than acting as a passive workout log.
+
+### [Chikku Data Combiner](https://github.com/aj4abinjacob/Chikku-Data-Combiner)
+
+The original Python/Pandas version of Chikku — a utility for combining **CSV, TSV, and Excel** datasets through a simple desktop interface.
+
+---
+
+## What I work with
+
+**Data & backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+**Tools & product work**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+
+---
+
+## Current focus
+
+I'm deliberately moving beyond knowing tools and syntax toward the parts of engineering that matter more as AI gets better at writing code:
+
+**problem decomposition · data modelling · architecture · trade-offs · debugging · reliability · performance · system behaviour**
+
+I'm also experimenting with AI agents as engineering tools — especially where they can automate repetitive implementation and maintenance work without replacing the judgment needed to design the system.
+
+---
+
+> I like building tools that turn messy, repetitive workflows into something boringly reliable.
