@@ -29,13 +29,13 @@ Right now I'm focused on going deeper into **data engineering fundamentals and s
 
 ## Selected projects
 
-### [Chikku Parser](https://github.com/aj4abinjacob/chikku_parser)
+### [Chikku Parser](https://github.com/aj4abinjacob/chikku_parser/tree/rust_test) *(active development)*
 
-A desktop application for exploring, combining, filtering, and transforming CSV data.
+A Tauri desktop application for viewing documents and exploring, combining, filtering, and transforming data files.
 
-Built with **Electron, React, TypeScript, and DuckDB**, with virtualized browsing designed to handle datasets with millions of rows.
+Built with **Rust, Tauri, React, TypeScript, and DuckDB**, with virtualized browsing for large datasets and support for CSV, TSV, JSON, Parquet, Excel, and PDF workflows.
 
-**Highlights:** large-file CSV viewing · SQL-powered transforms · flexible table combining · filtering/sorting · CSV export
+**Highlights:** large-file data viewing · SQL-powered transforms · pivots & aggregation · flexible table combining · PDF viewing/export · multi-format export
 
 ### LiftBack *(private · active development)*
 
@@ -61,9 +61,10 @@ The product includes guided progression, workout logging, rest handling, live wo
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 
 ---
 
