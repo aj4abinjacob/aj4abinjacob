@@ -29,7 +29,7 @@ Right now I'm focused on going deeper into **data engineering fundamentals and s
 
 ## Selected projects
 
-### [Chikku Parser](https://github.com/aj4abinjacob/chikku_parser/tree/rust_test) *(active development)*
+### [Chikku Parser](https://github.com/aj4abinjacob/chikku_parser) *(active development)*
 
 A Tauri desktop application for viewing documents and exploring, combining, filtering, and transforming data files.
 
